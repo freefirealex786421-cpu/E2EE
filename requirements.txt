@@ -1,2 +1,4 @@
+pkg install firefox geckodriver
+pip install flask selenium
 Flask
 requests
